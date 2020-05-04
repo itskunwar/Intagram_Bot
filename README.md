@@ -9,6 +9,7 @@ Following are the list of libraries that will be required.
 3.json-> https://pypi.org/project/jsonlib/
 4.selenium-> https://pypi.org/project/selenium/
 5.time-> https://pypi.org/project/python-time/
+6.smtplib-> https://pypi.org/project/secure-smtplib/
 
 Selenium Chrome Web Driver -> https://chromedriver.chromium.org/downloads
 
