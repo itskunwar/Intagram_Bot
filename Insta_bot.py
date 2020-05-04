@@ -5,7 +5,7 @@ import requests
 import json
 import smtplib
 import credentials
-from proxy import session
+from session import session
 
 headers = {
     'Accept-Encoding': 'gzip, deflate, sdch',
