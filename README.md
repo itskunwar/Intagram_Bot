@@ -1,6 +1,7 @@
 # Intagram_Bot
 A bot built for automating Instagram that scraps all the users which don't follow you or for a friend you looking for.
 Further it sends message of list of tagged username to the person you are automating for, over Instagram or to particular mail.
+The list excludes the famours public figures and pages from which you don't expect a follow back.
 
 Following are the list of libraries that will be required.
 
